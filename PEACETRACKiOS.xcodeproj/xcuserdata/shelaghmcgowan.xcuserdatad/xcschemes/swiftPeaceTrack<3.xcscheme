@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "215711DB19673D0D009A533C"
-               BuildableName = "PEACETRACKiOS.app"
-               BlueprintName = "PEACETRACKiOS"
+               BuildableName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app"
+               BlueprintName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename"
                ReferencedContainer = "container:PEACETRACKiOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -33,8 +33,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "215711EB19673D0E009A533C"
-               BuildableName = "PEACETRACKiOSTests.xctest"
-               BlueprintName = "PEACETRACKiOSTests"
+               BuildableName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests.xctest"
+               BlueprintName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests"
                ReferencedContainer = "container:PEACETRACKiOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -43,8 +43,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "215711DB19673D0D009A533C"
-            BuildableName = "PEACETRACKiOS.app"
-            BlueprintName = "PEACETRACKiOS"
+            BuildableName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app"
+            BlueprintName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename"
             ReferencedContainer = "container:PEACETRACKiOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -62,8 +62,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "215711DB19673D0D009A533C"
-            BuildableName = "PEACETRACKiOS.app"
-            BlueprintName = "PEACETRACKiOS"
+            BuildableName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app"
+            BlueprintName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename"
             ReferencedContainer = "container:PEACETRACKiOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -80,8 +80,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "215711DB19673D0D009A533C"
-            BuildableName = "PEACETRACKiOS.app"
-            BlueprintName = "PEACETRACKiOS"
+            BuildableName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app"
+            BlueprintName = "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename"
             ReferencedContainer = "container:PEACETRACKiOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
