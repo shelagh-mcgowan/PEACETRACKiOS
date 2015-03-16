@@ -49,12 +49,12 @@
 		21540527199478B000B65951 /* peacecorpsmn_logo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = peacecorpsmn_logo.gif; sourceTree = "<group>"; };
 		2154052919947DE700B65951 /* down4-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "down4-25.png"; sourceTree = "<group>"; };
 		2154052D19948EEE00B65951 /* GorgeousLine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GorgeousLine.png; sourceTree = "<group>"; };
-		215711DC19673D0D009A533C /* PEACETRACKiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PEACETRACKiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		215711DC19673D0D009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		215711E019673D0D009A533C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		215711E119673D0D009A533C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		215711E419673D0D009A533C /* swiftPeaceTrack_3.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = swiftPeaceTrack_3.xcdatamodel; sourceTree = "<group>"; };
 		215711E619673D0D009A533C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		215711EC19673D0E009A533C /* PEACETRACKiOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PEACETRACKiOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		215711EC19673D0E009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		215711F119673D0E009A533C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		215711F219673D0E009A533C /* swiftPeaceTrack_3Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftPeaceTrack_3Tests.swift; sourceTree = "<group>"; };
 		215711FE19673E8D009A533C /* VCMain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VCMain.swift; sourceTree = "<group>"; };
@@ -94,8 +94,8 @@
 				2154052D19948EEE00B65951 /* GorgeousLine.png */,
 				2154052919947DE700B65951 /* down4-25.png */,
 				21540527199478B000B65951 /* peacecorpsmn_logo.gif */,
-				215711DE19673D0D009A533C /* swiftPeaceTrack<3 */,
-				215711EF19673D0E009A533C /* swiftPeaceTrack<3Tests */,
+				215711DE19673D0D009A533C /* PEACETRACKiOS */,
+				215711EF19673D0E009A533C /* PEACETRACKiOSTests */,
 				215711DD19673D0D009A533C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -103,13 +103,13 @@
 		215711DD19673D0D009A533C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				215711DC19673D0D009A533C /* PEACETRACKiOS.app */,
-				215711EC19673D0E009A533C /* PEACETRACKiOSTests.xctest */,
+				215711DC19673D0D009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app */,
+				215711EC19673D0E009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		215711DE19673D0D009A533C /* swiftPeaceTrack<3 */ = {
+		215711DE19673D0D009A533C /* PEACETRACKiOS */ = {
 			isa = PBXGroup;
 			children = (
 				21789108199C149A00692E2B /* Tasks.swift */,
@@ -127,7 +127,7 @@
 				21763DCC197F134F007BC9D0 /* sectors.plist */,
 				21DE4EE2198AF202004F1AC5 /* swiftPeaceTrack<3-Bridging-Header.h */,
 			);
-			path = "swiftPeaceTrack<3";
+			path = PEACETRACKiOS;
 			sourceTree = "<group>";
 		};
 		215711DF19673D0D009A533C /* Supporting Files */ = {
@@ -138,13 +138,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		215711EF19673D0E009A533C /* swiftPeaceTrack<3Tests */ = {
+		215711EF19673D0E009A533C /* PEACETRACKiOSTests */ = {
 			isa = PBXGroup;
 			children = (
 				215711F219673D0E009A533C /* swiftPeaceTrack_3Tests.swift */,
 				215711F019673D0E009A533C /* Supporting Files */,
 			);
-			path = "swiftPeaceTrack<3Tests";
+			path = PEACETRACKiOSTests;
 			sourceTree = "<group>";
 		};
 		215711F019673D0E009A533C /* Supporting Files */ = {
@@ -158,9 +158,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		215711DB19673D0D009A533C /* PEACETRACKiOS */ = {
+		215711DB19673D0D009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 215711F619673D0E009A533C /* Build configuration list for PBXNativeTarget "PEACETRACKiOS" */;
+			buildConfigurationList = 215711F619673D0E009A533C /* Build configuration list for PBXNativeTarget "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename" */;
 			buildPhases = (
 				215711D819673D0D009A533C /* Sources */,
 				215711D919673D0D009A533C /* Frameworks */,
@@ -170,14 +170,14 @@
 			);
 			dependencies = (
 			);
-			name = PEACETRACKiOS;
+			name = PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename;
 			productName = "swiftPeaceTrack<3";
-			productReference = 215711DC19673D0D009A533C /* PEACETRACKiOS.app */;
+			productReference = 215711DC19673D0D009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
-		215711EB19673D0E009A533C /* PEACETRACKiOSTests */ = {
+		215711EB19673D0E009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 215711F919673D0E009A533C /* Build configuration list for PBXNativeTarget "PEACETRACKiOSTests" */;
+			buildConfigurationList = 215711F919673D0E009A533C /* Build configuration list for PBXNativeTarget "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests" */;
 			buildPhases = (
 				215711E819673D0E009A533C /* Sources */,
 				215711E919673D0E009A533C /* Frameworks */,
@@ -189,9 +189,9 @@
 				215711EE19673D0E009A533C /* PBXTargetDependency */,
 				21BD58BF198AE98F00D4AE02 /* PBXTargetDependency */,
 			);
-			name = PEACETRACKiOSTests;
+			name = PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests;
 			productName = "swiftPeaceTrack<3Tests";
-			productReference = 215711EC19673D0E009A533C /* PEACETRACKiOSTests.xctest */;
+			productReference = 215711EC19673D0E009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -224,8 +224,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				215711DB19673D0D009A533C /* PEACETRACKiOS */,
-				215711EB19673D0E009A533C /* PEACETRACKiOSTests */,
+				215711DB19673D0D009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename */,
+				215711EB19673D0E009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests */,
 			);
 		};
 /* End PBXProject section */
@@ -285,12 +285,12 @@
 /* Begin PBXTargetDependency section */
 		215711EE19673D0E009A533C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 215711DB19673D0D009A533C /* PEACETRACKiOS */;
+			target = 215711DB19673D0D009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename */;
 			targetProxy = 215711ED19673D0E009A533C /* PBXContainerItemProxy */;
 		};
 		21BD58BF198AE98F00D4AE02 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 215711DB19673D0D009A533C /* PEACETRACKiOS */;
+			target = 215711DB19673D0D009A533C /* PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename */;
 			targetProxy = 21BD58BE198AE98F00D4AE02 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -381,7 +381,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "swiftPeaceTrack<3/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = PEACETRACKiOS;
+				PRODUCT_NAME = PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename;
 				SWIFT_OBJC_BRIDGING_HEADER = "swiftPeaceTrack<3/swiftPeaceTrack<3-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
@@ -395,7 +395,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = "swiftPeaceTrack<3/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = PEACETRACKiOS;
+				PRODUCT_NAME = PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename;
 				SWIFT_OBJC_BRIDGING_HEADER = "swiftPeaceTrack<3/swiftPeaceTrack<3-Bridging-Header.h";
 			};
 			name = Release;
@@ -415,7 +415,7 @@
 				INFOPLIST_FILE = "swiftPeaceTrack<3Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				METAL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = PEACETRACKiOSTests;
+				PRODUCT_NAME = PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 			};
 			name = Debug;
@@ -431,7 +431,7 @@
 				INFOPLIST_FILE = "swiftPeaceTrack<3Tests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				METAL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = PEACETRACKiOSTests;
+				PRODUCT_NAME = PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 			};
 			name = Release;
@@ -448,7 +448,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		215711F619673D0E009A533C /* Build configuration list for PBXNativeTarget "PEACETRACKiOS" */ = {
+		215711F619673D0E009A533C /* Build configuration list for PBXNativeTarget "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_rename" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				215711F719673D0E009A533C /* Debug */,
@@ -457,7 +457,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		215711F919673D0E009A533C /* Build configuration list for PBXNativeTarget "PEACETRACKiOSTests" */ = {
+		215711F919673D0E009A533C /* Build configuration list for PBXNativeTarget "PEACETRACKiOS.temp_caseinsensitive_rename.temp_caseinsensitive_rename.temp_caseinsensitive_renameTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				215711FA19673D0E009A533C /* Debug */,
